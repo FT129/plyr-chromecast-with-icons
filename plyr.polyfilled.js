@@ -4017,7 +4017,7 @@ typeof navigator === "object" && (function (global, factory) {
     iconPrefix: 'plyr',
     iconUrl: 'https://rawcdn.githack.com/FT129/plyr-chromecast-with-icons/2a92c2ffcc2fb841b7b65a7704c8c657d9686391/plyr.svg',
     // Blank video (used to prevent errors on source change)
-    blankVideo: 'https://cdn.plyr.io/static/blank.mp4',
+    blankVideo: 'https://raw.githack.com/FT129/plyr-chromecast-with-icons/main/blank.mp4',
     // Quality default
     quality: {
       default: 576,
